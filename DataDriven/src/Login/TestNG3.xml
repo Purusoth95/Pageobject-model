@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="login">
+<test name="logintest">
+<classes>
+<class name="Login.LoginProvider">
+</class></classes>
+</test></suite>
